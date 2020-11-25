@@ -6,3 +6,4 @@ Git tracks changes of files.
 Creating a new branch is quick and simple.
 Add Merge.
 Add Something.
+fix bug1 finally.
