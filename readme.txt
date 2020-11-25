@@ -7,3 +7,4 @@ Creating a new branch is quick and simple.
 Add Merge.
 Add Something.
 fix bug1 finally.
+Test rebase.
