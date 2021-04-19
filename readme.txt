@@ -8,3 +8,4 @@ Add Merge.
 Add Something.
 fix bug1 finally.
 Test rebase.
+Rebase master.
